@@ -2,9 +2,9 @@
 Sistem Penunjang Keputusan menggunakan algoritma SAW (Simple Additive Weighting) menggunakan framework Laravel
 
 ## Demo Program
-
 <p align="center"><img src="https://imgdb.net/images/6444.png"></p>
 
+## Laravel
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
